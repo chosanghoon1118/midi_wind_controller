@@ -1,2 +1,2 @@
-# midi_wind_controller
+# MIDI Wind Controller
 ![screenshot](./img/IMG_20171227_131914.jpg)
